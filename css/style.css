@@ -114,6 +114,7 @@ h2{
     color: var(--btn);
     border: 1px solid;
     margin-right: 15px;
+    margin-bottom: 10px;
 } 
 
 .btn-km{
